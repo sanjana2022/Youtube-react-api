@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  VideoContainer,
+   VideoContainer,
   Frame,
   VideoWrapper,
   VideoTitle,
