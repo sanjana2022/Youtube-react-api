@@ -13,7 +13,7 @@ export const SearchWrapper = styled.div`
   }
 `;
 
-export const Search = styled.input`
+ export const Search = styled.input`
   width: 600px;
   height: 31px;
   color: #cdcdcd;
