@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const NavContainer = styled.nav`
-  display: flex;
+   display: flex;
   align-items: center;
   height: 60px;
   background-color: #232323;
