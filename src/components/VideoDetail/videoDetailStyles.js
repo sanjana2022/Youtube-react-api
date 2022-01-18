@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
 export const VideoContainer = styled.div`
-  display: flex;
-  width: 85%;
-  margin-left: calc(94px + 4.5em + 80px);
+   display: flex;
+   width: 85%;
+   margin-left: calc(94px + 4.5em + 80px);
 
   @media screen and (max-width: 1580px) {
     width: 95%;
