@@ -43,7 +43,7 @@ export const Thumbnail = styled.img`
   background-size: cover;
 `;
 
-export const ItemTitle = styled.span`
+ export const ItemTitle = styled.span`
   color: #e3e3e3;
   display: inline-block;
 `;
