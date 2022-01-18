@@ -1,6 +1,6 @@
 import React from 'react';
 import VideoItem from './VideoItem';
-// styles
+
 import { ListContainer } from './videoStyles';
 
 function VideoList({ videos, handleSelectVideo }) {
